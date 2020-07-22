@@ -1,0 +1,16 @@
+Used for game
+
+Programming libs:
+http://www.raylib.com
+https://github.com/raysan5/raygui
+
+Sounds and textures:
+https://soundbible.com/2121-380-Gunshot.html
+https://freesound.org/people/ryanconway/sounds/161622
+https://freesound.org/people/knova/sounds/172334
+https://freesound.org/people/coolguy244e/sounds/266977
+https://freesound.org/people/rdaly95/sounds/387168
+https://freesound.org/people/Zeinel/sounds/483924
+https://opengameart.org/content/3-fps-crosshairs
+
+Sounds and textures are credit to their authors,Licensed under creative commons license.

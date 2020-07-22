@@ -1,0 +1,27 @@
+Tyrius TODO
+
+[x] Create And Add Some Resources
+[x] Create Game Levels Headers
+[x] Add Game Levels Headers Content
+[x] Add Game Libraries For Use(Raylib,Raudio,Ricons,Raygui,Physac)
+[x] Add Save Values
+[x] Create Game Window
+[x] Add Splashscreen
+[x] Create Menus
+[x] Add Menus Content
+[x] Add Configurable Controls
+[x] Try To Add Environments And Freemode
+[ ] Add Main Options
+[ ] Add Game Controls Menu
+[ ] Add Credits Menu
+[ ] Add Training
+[ ] Add Tutorial
+[ ] Add Interactive Menus And GUI
+[ ] Add Main Game Prototype Map
+[ ] Add Prototype Levels And Maps With Zombie Mode Or Similar
+[ ] Add Better AI For Enemies And Zombies
+[ ] Polish Complete Content
+[ ] On itch.io And GitHub With License And Copyrights
+[ ] Try To Add Multiplayer Mode Using rnet.h
+[ ] Try To Add Missions Mode(Hope This Will Not Be Sucks)
+[ ] Try To Modify All Menus For Better Final Responsible Product
