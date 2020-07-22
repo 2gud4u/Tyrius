@@ -32,7 +32,7 @@ Cause Tyrius is in prototype mode,The game has some problems unfortunately like:
 2. Some game scenes missing (Game levels,Options)
 3. No game maps or physics
 
-> Please if you can help me and fix camera orbiting problem i would be thanful cause i still think about completing this game rather than the rhythm game i'm working on.
+> Please if you can help me and fix camera orbiting problem i would be thankful cause i still think about completing this game rather than the rhythm game i'm working on.
 
 ## Credits
 1. Rabia Alhaffar (Main programmer)
